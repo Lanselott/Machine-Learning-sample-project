@@ -1,1 +1,2 @@
 # Machine-Learning-sample-project
+use data from Show of Hands, an informal polling platform for use on mobile devices and the web, to see what aspects and characteristics of people’s lives predict happiness. Show of Hands has been downloaded over 300,000 times across Apple and Android app stores, and users have cast more than 75 million votes. In this problem, we’ll use data from thousands of users and one hundred di!erent questions to see which responses predict happiness. You can also this problem as a competition in the data science competition platform Kaggle
